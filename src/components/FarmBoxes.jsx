@@ -16,7 +16,8 @@ export default function FarmBoxes(){
                     FARM TOKEN
                 </Title>
                 <Text>
-                    $FARM is all about Farming and Harvesting. It aid yields and rewars on FarmToken.
+                    $FARM is all about Farming and Harvesting. It aid yields and rewards on FarmToken. Like the token itself, EBEN, LAW, MIST, TANGO, ETC..
+
                 </Text>
                 <Button href={exploreFarm}>Explore FARM</Button>
             </Box>
