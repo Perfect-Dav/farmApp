@@ -15,7 +15,7 @@ export default function Earn(){
     });
 
     return(
-        <Container style={{paddingTop: '70px'}}>
+        <Container style={{paddingTop: '135px'}}>
             <BarsContainer ref={ref}>
                 <BarsBg>
                     <MyImg src="/plant_bg.svg" alt="plant"/>
